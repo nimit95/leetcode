@@ -13,3 +13,4 @@ LeetCode
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](./cpp/romanToIntegers.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./cpp/removeNlistend.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./cpp/validParentheses.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./cpp/mergeTwoSortedList.cpp)|Easy|
