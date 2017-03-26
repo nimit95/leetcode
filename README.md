@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-###LeetCode Algorithm
+### LeetCode Algorithm
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -15,4 +15,5 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./cpp/validParentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./cpp/mergeTwoSortedList.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/RemoveDuplicates.cpp)|Easy|
-|26|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
+|101|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
