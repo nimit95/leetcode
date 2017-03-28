@@ -17,4 +17,4 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/RemoveDuplicates.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
 |101|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
-||(./cpp/triangle.cpp)||
+|120|[Triangle](https://leetcode.com/problems/triangle)| [C++](./cpp/triangle.cpp)|Medium|
