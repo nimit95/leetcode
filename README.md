@@ -19,3 +19,4 @@ LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle)| [C++](./cpp/triangle.cpp)|Medium|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| [C++](./cpp/sumOfLeftLeaves.cpp)|Easy|
