@@ -16,6 +16,7 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./cpp/mergeTwoSortedList.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/RemoveDuplicates.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| [C++](./cpp/sorted-array-to-binary-search-tree.cpp) |Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
