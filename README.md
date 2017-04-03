@@ -20,5 +20,6 @@ LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| [C++](./cpp/sorted-array-to-binary-search-tree.cpp) |Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [C++](./cpp/balanced-binary-tree.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)|[C++](./cpp/path-sum.cpp)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle)| [C++](./cpp/triangle.cpp)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| [C++](./cpp/sumOfLeftLeaves.cpp)|Easy|
