@@ -24,4 +24,5 @@ LeetCode
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)|[C++](./cpp/minimum-depth-of-binary-tree.cpp)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)|[C++](./cpp/path-sum.cpp)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle)| [C++](./cpp/triangle.cpp)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/#/description)|[C++](./cpp/lowest-common-ancestor-of-a-bst.cpp)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| [C++](./cpp/sumOfLeftLeaves.cpp)|Easy|
