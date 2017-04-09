@@ -26,4 +26,5 @@ LeetCode
 |120|[Triangle](https://leetcode.com/problems/triangle)| [C++](./cpp/triangle.cpp)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/#/description)|[C++](./cpp/invert-binary-tree.cpp)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/#/description)|[C++](./cpp/lowest-common-ancestor-of-a-bst.cpp)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/#/description)|[C++](./cpp/binary-tree-paths.cpp)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)| [C++](./cpp/sumOfLeftLeaves.cpp)|Easy|
