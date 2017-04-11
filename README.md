@@ -14,6 +14,7 @@ LeetCode
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./cpp/removeNlistend.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./cpp/validParentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./cpp/mergeTwoSortedList.cpp)|Easy|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description)|[C++](./cpp/swap-nodes-in-pairs.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/RemoveDuplicates.c-p)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
