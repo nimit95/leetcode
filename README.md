@@ -17,7 +17,7 @@ LeetCode
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/#/description)|[C++](./cpp/swap-nodes-in-pairs.cpp)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./cpp/RemoveDuplicates.c-p)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./cpp/RemoveElement.cpp)|Easy|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|[C++](search-insert-position.cpp)|Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|[C++](./cpp/search-insert-position.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [C++](./cpp/maximum-depth-of-binary-tree.cpp)|Easy|
