@@ -21,6 +21,7 @@ LeetCode
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)|[C++](./cpp/combination-sum.cpp)|Medium|
 |40|[Combination Sum 2](https://leetcode.com/problems/combination-sum-ii/#/description)|[C++](./cpp/combination-sum-ii.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/#/description)|[C++](./cpp/permutations.cpp)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)|[C++](./cpp/powx-n.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [C++](./cpp/maximum-depth-of-binary-tree.cpp)|Easy|
