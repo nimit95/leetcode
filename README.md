@@ -27,6 +27,7 @@ LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/description)|[C++](./cpp/minimum-path-sum.cpp)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/#/description)|[C++](./cpp/plus-one.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/description)|[C++](./cpp/climbing-stairs.cpp)|Easy|
+|77|[Combinations](https://leetcode.com/problems/combinations/#/description)|[C++](./cpp/combinations.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [C++](./cpp/maximum-depth-of-binary-tree.cpp)|Easy|
