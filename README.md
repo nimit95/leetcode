@@ -28,6 +28,7 @@ LeetCode
 |66|[Plus One](https://leetcode.com/problems/plus-one/#/description)|[C++](./cpp/plus-one.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/description)|[C++](./cpp/climbing-stairs.cpp)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)|[C++](./cpp/combinations.cpp)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/#/description)|[C++](./cpp/subsets.cpp)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/#/description)|[C++](./cpp/remove-duplicates-from-sorted-list-ii.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](./cpp/same-tree.cpp)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)| [C++](./cpp/symmetric-tree.cpp)|Easy|
