@@ -27,6 +27,7 @@ https://leetcode.com/nimit95/
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/#/description)|[C++](./cpp/rotate-list.cpp)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/description)|[C++](./cpp/minimum-path-sum.cpp)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/#/description)|[C++](./cpp/plus-one.cpp)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/#/description)|[C++](./cpp/add-binary.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/description)|[C++](./cpp/climbing-stairs.cpp)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)|[C++](./cpp/combinations.cpp)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)|[C++](./cpp/subsets.cpp)|Medium|
